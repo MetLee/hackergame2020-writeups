@@ -14,3 +14,10 @@
 官解地址：https://github.com/USTC-Hackergame/hackergame2020-writeups
 
 ~~顺带爬了一份参赛选手名单：[users.json](users.json)~~
+
+
+
+然后又爬了一下每个选手的分数（
+
+感觉可以用来分析一下（~~在做了在做了~~
+
